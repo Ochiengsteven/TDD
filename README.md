@@ -77,7 +77,8 @@ Before running this project, make sure you have the following prerequisites inst
 👤 Ochieng Steven
 
 - GitHub: [Ochieng](https://github.com/Ochiengsteven)
-👤 *Edwin Gichuhi*
+  
+👤 Edwin Gichuhi
 
 - GitHub: [Edwin](https://github.com/egichuhis)
 
