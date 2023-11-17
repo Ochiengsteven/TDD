@@ -14,4 +14,10 @@ RSpec.describe Solver do
       expect { Solver.factorial(-3) }.to raise_error(ArgumentError)
     end
   end
+
+  describe '#reverse' do
+    it 'returns the reversed string' do
+      expect(Solver.reverse('hello')).to eq('olleh')
+    end
+  end
 end
