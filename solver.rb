@@ -1,25 +1,25 @@
 # solver.rb
 
 class Solver
-  def self.factorial(n)
-    raise ArgumentError, 'Input must be a non-negative integer' if n.negative?
+  def self.factorial(num)
+    raise ArgumentError, 'Input must be a non-negative integer' if num.negative?
 
-    (1..n).reduce(1, :*)
+    (1..num).reduce(1, :*)
   end
 
   def self.reverse(word)
     word.reverse
   end
 
-  def self.fizzbuzz(n)
-    if n % 3 == 0 && n % 5 == 0
+  def self.fizzbuzz(num)
+    if (num % 3).zero? && (num % 5).zero?
       'fizzbuzz'
-    elsif n % 3 == 0
+    elsif (num % 3).zero?
       'fizz'
-    elsif n % 5 == 0
+    elsif (num % 5).zero?
       'buzz'
     else
-      n.to_s
+      num.to_s
     end
   end
 end
