@@ -77,7 +77,6 @@ Before running this project, make sure you have the following prerequisites inst
 👤 Ochieng Steven
 
 - GitHub: [Ochieng](https://github.com/Ochiengsteven)
-
   
 👤 Edwin Gichuhi
 
@@ -101,7 +100,6 @@ Feel free to check the issues page.
 ## ⭐️ Show your support <a name="support"></a>
 <br>
 If you find this project useful, please consider giving it a star!
-
 
 [![Star](https://img.shields.io/github/stars/agneta1991/tdd?style=social)](https://github.com/Ochiengsteven/TDD)
 
