@@ -38,7 +38,7 @@ This project is built using the following technologies:
 <details>
   <ul>
     <li>Every method has tests</li>
-    <li>Every test is made before method implemented</li>
+    <li>The tests were made before method implemented</li>
   </ul>
 </details>
 
