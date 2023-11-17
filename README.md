@@ -101,7 +101,7 @@ Feel free to check the issues page.
 <br>
 If you find this project useful, please consider giving it a star!
 
-[![Star](https://img.shields.io/github/stars/agneta1991/tdd?style=social)](https://github.com/agneta1991/tdd)
+[![Star](https://img.shields.io/github/stars/agneta1991/tdd?style=social)](https://github.com/Ochiengsteven/TDD)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
