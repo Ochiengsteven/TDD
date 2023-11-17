@@ -15,5 +15,6 @@ jobs:
         run: |
           [ -f Gemfile ] && bundle
           gem install --no-document rspec -v '>=3.0, < 4.0'
+          gem install --no-document rubocop
       - name: RSpec Report
         run: rspec --force-color --format documentation
