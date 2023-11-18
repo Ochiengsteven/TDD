@@ -1,7 +1,7 @@
 
 # 📗 Table of Contents
 
-- [� Table of Contents](#-table-of-contents)
+- [📗 Table of Contents](#-table-of-contents)
 - [📖 TDD solver project ](#-tdd-solver-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack](#tech-stack)
@@ -111,4 +111,4 @@ We would like to express our gratitude to the contributors and anyone who uses o
 
 <!-- LICENSE -->
 ## 📝 License <a name="license"></a>
-This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT](./LICENCE.md) licensed.
